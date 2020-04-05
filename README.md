@@ -2,8 +2,10 @@
 Start date 	: 2020-04-07
 ___
 
-# Technical:
---- PHP OpenSource
+# Technical
+- ** Apache / Xampp
+- PHP OpenSource 
+- HTML5, CSS3, Javascript, jQuery, Bootstrap
 ___
 ## Cài đặt công cụ lập trình
 - **[Xampp](https://www.apachefriends.org/download.html)** | **[Hướng dẫn cài đặt - Lab00.01]**
