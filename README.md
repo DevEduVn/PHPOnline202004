@@ -1,15 +1,10 @@
 # PHP Online 2020-04 Free
-Start date 	: 2020-04-07
-
-Author		: Chung Trịnh
-
-Email		: devmaster.edu.vn@gmail.com 
-
-Phone		: 0978.611.889
-
-Website		: **[https://devmaster.edu.vn](https://devmaster.edu.vn)** | **[http://devmaster.vn](http://devmaster.vn)**
+* Start date 	: 2020-04-07
+* Author		: Chung Trịnh
+* Email		: devmaster.edu.vn@gmail.com 
+* Phone		: 0978.611.889
+* Website		: **[https://devmaster.edu.vn](https://devmaster.edu.vn)** | **[http://devmaster.vn](http://devmaster.vn)**
 ___
-
 # Technical
 - Apache / Xampp
 - PHP OpenSource 
