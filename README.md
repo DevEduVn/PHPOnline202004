@@ -15,7 +15,9 @@ ___
 - **[Visual Studio Code](https://code.visualstudio.com/Download)** | **[Hướng dẫn cài đặt - Lab00.02]**
 <!-- Horizontal Rule -->
 ___
-
+## Books
+- **[Books](https://drive.google.com/file/d/1R998wgHLohN2izF2Rr5i_V0cnR2_Yzf_/view?usp=sharing)**
+___
 ## Content
 ### Chương 1: TỔNG QUAN VỀ NGÔN NGỮ LẬP TRÌNH PHP
 ### Chương 2: XỬ LÝ FORM TRONG PHP
