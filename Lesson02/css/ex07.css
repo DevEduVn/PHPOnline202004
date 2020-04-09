@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;;
+}
+body{
+	background:#fff;
+}
+form{
+	border: 1px solid #ddd;
+	margin: 50px 25%;
+	background-color: #ccc;
+	border-radius: 5px;
+	padding:20px;
+}
+form .form-group{
+	margin:10px 0px;
+	padding: 5px;
+}
+form label{
+	width: 15%;
+	display:inline-block
+}
+form  .form-control{
+	width: calc(75% - 20px);
+	padding: 5px;
+	border:1px solid #ddd;
+	border-radius: 3px;
+}
+.green, .red{
+	padding: 5px 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+div.img-logo{
+	display: flex;
+	justify-content: center;
+}
+div.img-logo img{
+	width: 150px;
+	/* height: 150px; */
+	border-radius: 50%;
+} 
