@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+form{
+	color: #666;
+	margin:10px 10%;
+	padding: 15px;
+	border:1px solid #ddd;
+	border-radius: 5px;
+}
+h2{
+	text-align: center;
+	color: #333;
+}
+form label{
+	display: inline-block;
+	width: 20%;
+}
+form input[type="text"], form textarea{
+	width:calc(80% - 50px);
+}
+form input, form textarea, form .form-control {
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	padding: 5px 10px;
+}
+form .form-group{
+	margin:5px auto;
+}
