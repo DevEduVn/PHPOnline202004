@@ -76,3 +76,5 @@
 	for($x=1,$tong=0 ; $x<=10 ; $tong +=$x, $x++);
 	echo $tong;
 	echo "<hr/>";
+
+	
