@@ -1,0 +1,13 @@
+Chương 7
+Khái niệm về cookie và session trong lập trình web với PHP
+
+	Khái niệm về cookie
+	Lấy dữ liệu từ Cookie 
+	Xóa Cookie
+	Một số vấn đề về Cookie
+
+	Định nghĩa một session
+	Làm việc với session
+	Khởi tạo session
+	Đăng ký session
+	Kết thúc session
