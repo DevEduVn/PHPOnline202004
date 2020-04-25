@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#main-content{
+	background-color: #ccc;
+	margin: 5px 10px;
+	border:1px solid #ddd;
+	min-height: calc(100vh - 120px);
+}
+footer{
+	min-height: 50px;
+}
